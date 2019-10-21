@@ -1,0 +1,13 @@
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/Debug/netcoreapp2.1/RateCalculationEngine.deps.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/Debug/netcoreapp2.1/RateCalculationEngine.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/Debug/netcoreapp2.1/RateCalculationEngine.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/Debug/netcoreapp2.1/RateCalculationEngine.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/Debug/netcoreapp2.1/RateCalculationEngine.pdb
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.RazorAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.RazorAssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.RazorTargetAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.pdb
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/Debug/netcoreapp2.1/RateCalculationEngine.csprojAssemblyReference.cache

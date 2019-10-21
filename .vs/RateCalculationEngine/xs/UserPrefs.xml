@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{1588E178-4DF0-4923-8599-6D367C00F274}|Default">
+  <MonoDevelop.Ide.ItemProperties.RateCalculationEngine PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RateCalculationEngine/build.ps1">
+    <Files>
+      <File FileName="RateCalculationEngine/Worker/CalculationEngine.cs" Line="93" Column="1" />
+      <File FileName="RateCalculationEngine/Extension/DateTimeExtension.cs" Line="1" Column="1" />
+      <File FileName="RateCalculationEngine/Extension/EnumExtension.cs" Line="12" Column="1" />
+      <File FileName="RateCalculationEngine/Model/Patron.cs" Line="11" Column="55" />
+      <File FileName="RateCalculationEngine.Test/Worker/CalculationEngineTest.cs" Line="88" Column="30" />
+      <File FileName="RateCalculationEngine/Controllers/RateCalculationController.cs" Line="9" Column="2" />
+      <File FileName="RateCalculationEngine/Startup.cs" Line="86" Column="14" />
+      <File FileName="RateCalculationEngine.Test/Controllers/RateCalculationControllerTest.cs" Line="51" Column="18" />
+      <File FileName="RateCalculationEngine/serverless.yml" Line="1" Column="1" />
+      <File FileName="RateCalculationEngine/build.ps1" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RateCalculationEngine" expanded="True">
+            <Node name="RateCalculationEngine" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extension" expanded="True" />
+              <Node name="Factory" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Util" expanded="True" />
+              <Node name="Worker" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="build.ps1" selected="True" />
+            </Node>
+            <Node name="RateCalculationEngine.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RateCalculationEngine" expanded="True">
+            <Node name="RateCalculationEngine.Test" expanded="True">
+              <Node name="RateCalculationEngine" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="Worker" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/Worker/CalculationEngineTest.cs" relfile="RateCalculationEngine.Test/Worker/CalculationEngineTest.cs" line="30" column="1" />
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/RateCalculator/FlatRate.cs" relfile="RateCalculationEngine/RateCalculator/FlatRate.cs" line="18" column="1" />
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/RateCalculator/FlatRateCalculator.cs" relfile="RateCalculationEngine/RateCalculator/FlatRateCalculator.cs" line="14" column="1" />
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/RateCalculator/RateCalculator.cs" relfile="RateCalculationEngine/RateCalculator/RateCalculator.cs" line="17" column="1" />
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/Worker/CalculationEngine.cs" relfile="RateCalculationEngine/Worker/CalculationEngine.cs" line="23" column="1" />
+      <Breakpoint file="/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/RateCalculator/HourlyRateTest.cs" relfile="RateCalculationEngine.Test/RateCalculator/HourlyRateTest.cs" line="126" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

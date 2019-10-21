@@ -1,0 +1,16 @@
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.Test.deps.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.Test.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.Test.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.Test.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.Test.pdb
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/bin/Debug/netcoreapp2.1/RateCalculationEngine.pdb
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.csprojAssemblyReference.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.csproj.CopyComplete
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine.Test/obj/Debug/netcoreapp2.1/RateCalculationEngine.Test.pdb

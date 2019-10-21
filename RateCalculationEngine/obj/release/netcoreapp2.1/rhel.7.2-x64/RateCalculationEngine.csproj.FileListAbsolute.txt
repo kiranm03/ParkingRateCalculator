@@ -1,0 +1,14 @@
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.deps.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.runtimeconfig.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.runtimeconfig.dev.json
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/bin/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.pdb
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.csprojAssemblyReference.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.csproj.CoreCompileInputs.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.RazorAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.RazorAssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.AssemblyInfoInputs.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.AssemblyInfo.cs
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.RazorTargetAssemblyInfo.cache
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.dll
+/Users/kiran/Projects/Coding Challenge/emprevo/RateCalculationEngine/RateCalculationEngine/obj/release/netcoreapp2.1/rhel.7.2-x64/RateCalculationEngine.pdb
